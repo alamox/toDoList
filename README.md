@@ -20,6 +20,9 @@ Lista de tareas con React donde puedes añadir, modificar y eliminar.
 * [Correo](adrala99@gmail.com)
 * [LinkedIn](www.linkedin.com/in/adrián-álamo-castro)
 
+## Instalación
+Se puede acceder desde este enlace: http://localhost:3000/
+
 ## Licencia 📄
 MIT Public License v3.0
 No puede usarse comencialmente.
