@@ -12,7 +12,7 @@ Lista de tareas con React donde puedes añadir, modificar y eliminar.
 [![React](https://img.shields.io/badge/React-75c4ff?style=for-the-badge&logo=Reqact&logoColor=white)](https://es.wikipedia.org/wiki/React)
 
 ## Vista previa del proyecto
-(![toDoList](https://github.com/user-attachments/assets/e50cd81c-ff6f-485a-b98a-826ccc484bc6))
+![toDoList](https://github.com/user-attachments/assets/e50cd81c-ff6f-485a-b98a-826ccc484bc6)
 
 ## Autor ✒️
 **Adrián Álamo Castro**
