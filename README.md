@@ -2,7 +2,7 @@
 To do list
 
 ## Descripción 📑
-Es un proyecto donde hago una lista de tareas con React donde puedes añadir, modificar y eliminar.
+Lista de tareas con React donde puedes añadir, modificar y eliminar.
 
 ## Tecnologías 🛠
 <!-- Iconos sacados de: https://github.com/hendrasob/badges/blob/master/README.md y https://github.com/alexandresanlim/Badges4-README.md-Profile -->
